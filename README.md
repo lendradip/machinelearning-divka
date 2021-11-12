@@ -1,1 +1,1 @@
-# machinelearning-divka
+# machinelearning_week2
